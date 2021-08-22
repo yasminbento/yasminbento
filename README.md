@@ -5,10 +5,11 @@
 - ⚡ Fun fact: Adoro a cultura asiática como um todo, principalmente gastronomia, filmes, animes e músicas. Um dos meus sonhos é ir pro Japão! 
 
  <div>
-  <a href="https://github.com/yasminbento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminbento&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminbento&layout=compact&langs_count=7&theme=vue"/>
-</div>
+   <a href="https://github.com/yasminbento">
+   <img height="145" src="https://github-readme-stats.vercel.app/api?username=yasminbento&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="145" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminbento&layout=compact&langs_count=7&theme=vue"/>
+ </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Yas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +26,7 @@
   <a href = "mailto:yasminsbento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  
-  ![Snake animation](https://github.com/yasminbento/yasminbento/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yasminbento/yasminbento/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
