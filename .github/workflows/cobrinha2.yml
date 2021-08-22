@@ -16,7 +16,7 @@
 	      - uses: Platane/snk@master
 	        id: snake-gif
 	        with:
-	          github_user_name: rafaballerini
+	          github_user_name: yasminbento
 	          svg_out_path: dist/github-contribution-grid-snake.svg
 	
 
