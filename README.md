@@ -1,13 +1,14 @@
 
 - 🔭 Atualmente trabalhando em projetos para acrescentar ao github! 
-- 🌱 Estudando Python! 
-- 😄 Pronomes: Ela/Dela
+- 🌱 Estudando Python!  
+- 😄 Pronomes/Pronouns
 - ⚡ Fun fact: Adoro a cultura asiática como um todo, principalmente gastronomia, filmes, animes e músicas. Um dos meus sonhos é ir pro Japão! 
 
  <div>
    <a href="https://github.com/yasminbento">
-   <img height="140" src="https://github-readme-stats.vercel.app/api?username=yasminbento&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="120" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminbento&layout=compact&langs_count=7&theme=great-gatsby"/>
+   <img height="180" src="https://github-readme-stats.vercel.app/api?username=yasminbento&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o&layout=compact&theme=slateorange"/>
+
  </div>
 
 <div style="display: inline_block"><br>
