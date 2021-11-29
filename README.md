@@ -1,7 +1,6 @@
 
-- 🔭 Atualmente trabalhando em projetos para acrescentar ao github! 
-- 🌱 Estudando Python!  
-- 😄 Pronomes/Pronouns
+- 🔭 Atualmente trabalhando em projetos para acrescentar ao github!   
+- 😄 Pronomes/Pronouns: Ela/Dela
 - ⚡ Fun fact: Adoro a cultura asiática como um todo, principalmente gastronomia, filmes, animes e músicas. Um dos meus sonhos é ir pro Japão! 
 
  <div>
